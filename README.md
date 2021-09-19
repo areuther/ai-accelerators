@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Survey of AI/ML Accelerators
 
-You can use the [editor on GitHub](https://github.com/areuther/ai-accelerators/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Since the mid-2010s, my team and I have been tracking accelerator technologies. At that time a trend was starting to form that has since been captured by many researchers and industry leaders \[[Theis and Wong](https://doi.org/10.1109/MCSE.2017.29); [Horowitz](https://doi.org/10.1109/ISSCC.2014.6757323); [Leiserson, Thompson, et al.](https://doi.org/10.1126/science.aam9744); [Thompson and Spanuth](https://doi.org/10.1145/3430936); [Hennessy and Patterson](https://doi.org/10.1145/3282307); [Dally, Turakhia, and Han](https://doi.org/10.1145/3361682)\]. Clock frequencies, core counts, chip power densities, etc. were all hitting physical and/or economic walls. The trend was that accelerators would be the next avenue for enabling greater performance in computing systems. And that trend is definitely coming to pass. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first application area that has seen an explosion in processing accelerators is deep neural networks (DNNs), a subset of artificial intelligence and machine learning (AI/ML). These accelerators have been developed and brought to market for a variety of applications, and both for training and inference tasks. 
+A few colleagues and I at MIT Lincoln Laboratory Supercomputing Center (LLSC) have been closely following, studying, and analyzing the developments of these AI/ML accelerators. We observed that there was a lot of press and surveys chronicling the venture funding and technology announcements of thes AI/ML accelerators. However, we found only partial surveys of AI/ML accelerators from a computational performance point of view. Hence the genesis of our survey papers. We have published a series of survey papers at the IEEE High Performance Extreme Computing (HPEC) Conference that are synoptic in nature. As we have been releasing these annual papers, we have had numerous requests for some or all of the datasets that we have compiled. This git repository is where we are collecting and making available open datasets from this research work. 
 
-### Markdown
+## Papers and Datasets
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So far we have published two papers at the IEEE-HPEC Conference and a third paper has been accepted at IEEE-HPEC 2021. Each of the papers are available in IEEE Xplore and arXiv.org.  The datasets that were compiled for these papers are available here on subpages, and more fields are available as CSV files. 
 
-```markdown
-Syntax highlighted code block
+### 2021: 
+A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "AI Accelerator Survey and Trends," Accepted at *2021 IEEE High Performance Extreme Computing Conference (HPEC)*, 2021, pp. 1-10, \[IEEE Xplore doi: coming in October 2021\] \[ArXiv.org coming soon\] \[[data](peak_2021.md)\].
 
-# Header 1
-## Header 2
-### Header 3
+### 2020: 
+A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "Survey of Machine Learning Accelerators," *2020 IEEE High Performance Extreme Computing Conference (HPEC)*, 2020, pp. 1-12, \[[IEEE Xplore doi: 10.1109/HPEC43674.2020.9286149](https://doi.org/10.1109/HPEC43674.2020.9286149)\] \[[ArXiv.org/abs/2009.00993](https://arxiv.org/abs/2009.00993)\] \[[data](peak_2020.md)\]. 
 
-- Bulleted
-- List
+### 2019:
+A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "Survey and Benchmarking of Machine Learning Accelerators," *2019 IEEE High Performance Extreme Computing Conference (HPEC)*, 2019, pp. 1-9, \[[IEEE Xplore doi:: 10.1109/HPEC.2019.8916327](https://doi.org/10.1109/HPEC.2019.8916327)\] \[[ArXiv.org/abs/1908.11348](https://arxiv.org/abs/1908.11348)\] \[[data](peak_2019.md)\].
 
-1. Numbered
-2. List
+Please acknowledge this work with one or more of the papers above. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/areuther/ai-accelerators/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Copyright 2021 MIT, Albert I. Reuther
