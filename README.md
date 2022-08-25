@@ -9,8 +9,11 @@ A few colleagues and I at MIT Lincoln Laboratory Supercomputing Center (LLSC) ha
 
 So far we have published three papers at the IEEE-HPEC Conference and a fourth paper has been accepted at IEEE-HPEC 2022. Each of the papers are available in IEEE Xplore and arXiv.org.  The datasets that were compiled for these papers are available here on subpages, and more fields are available as CSV files. 
 
+### 2022: 
+A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "AI Accelerator Survey and Trends," Accepted at *2022 IEEE High Performance Extreme Computing Conference (HPEC)*, 2022, pp. 1-10, \[[IEEE Xplore doi: coming in October] \[ArXiv.org coming soon\] \[data coming soon\].
+
 ### 2021: 
-A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "AI Accelerator Survey and Trends," Accepted at *2021 IEEE High Performance Extreme Computing Conference (HPEC)*, 2021, pp. 1-10, \[[IEEE Xplore doi: 10.1109/HPEC49654.2021.9622867](https://doi.org/10.1109/HPEC49654.2021.9622867)\] \[[ArXiv.org/abs/2109.08957](https://arxiv.org/abs/2109.08957)\] \[[data](peak_2021.md)\].
+A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "AI Accelerator Survey and Trends," *2021 IEEE High Performance Extreme Computing Conference (HPEC)*, 2021, pp. 1-10, \[[IEEE Xplore doi: 10.1109/HPEC49654.2021.9622867](https://doi.org/10.1109/HPEC49654.2021.9622867)\] \[[ArXiv.org/abs/2109.08957](https://arxiv.org/abs/2109.08957)\] \[[data](peak_2021.md)\].
 
 ### 2020: 
 A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "Survey of Machine Learning Accelerators," *2020 IEEE High Performance Extreme Computing Conference (HPEC)*, 2020, pp. 1-12, \[[IEEE Xplore doi: 10.1109/HPEC43674.2020.9286149](https://doi.org/10.1109/HPEC43674.2020.9286149)\] \[[ArXiv.org/abs/2009.00993](https://arxiv.org/abs/2009.00993)\] \[[data](peak_2020.md)\]. 
