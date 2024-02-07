@@ -7,7 +7,11 @@ A few colleagues and I at MIT Lincoln Laboratory Supercomputing Center (LLSC) ha
 
 ## Papers and Datasets
 
-So far we have published three papers at the IEEE-HPEC Conference and a fourth paper has been accepted at IEEE-HPEC 2022. Each of the papers are available in IEEE Xplore and arXiv.org.  The datasets that were compiled for these papers are available here on subpages, and more fields are available as CSV files. 
+So far we have published five papers at the IEEE-HPEC Conference. Each of the papers are available in IEEE Xplore and arXiv.org.  The datasets that were compiled for these papers are available here on subpages, and more fields are available as CSV files. 
+
+### 2023: 
+A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "Lincoln AI Computing Survey (LAICS) Update," *2023 IEEE High Performance Extreme Computing Conference (HPEC)*, 2023, pp. 1-7, \[[IEEE Xplore doi: 10.1109/HPEC58863.2023.10363568](https://doi.org/10.1109/HPEC58863.2023.10363568)\] \[[ArXiv.org/abs/2310.09145](
+https://doi.org/10.48550/arXiv.2310.09145)\] \[[data](peak_2023.md)\].
 
 ### 2022: 
 A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "AI and ML Accelerator Survey and Trends," *2022 IEEE High Performance Extreme Computing Conference (HPEC)*, 2022, pp. 1-10, \[[IEEE Xplore doi: 10.1109/HPEC55821.2022.9926331](https://doi.org/10.1109/HPEC55821.2022.9926331)\] \[[ArXiv.org/abs/2210.04055](https://arxiv.org/abs/2210.04055)\] \[[data](peak_2022.md)\].
@@ -25,4 +29,4 @@ Please acknowledge this work with one or more of the papers above.
 
 
 
-Copyright 2022 MIT, Albert I. Reuther
+Copyright 2023 MIT, Albert I. Reuther
